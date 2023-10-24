@@ -1,0 +1,23 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Roboto sans serif",
+    "editor.tabSize": 5,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Dracula Soft",
+    "editor.fontSize": 18,
+    "terminal.integrated.fontFamily": "monospace",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "diffEditor.renderSideBySide": false,
+    "workbench.editor.enablePreview": false
+}
