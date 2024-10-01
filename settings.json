@@ -3,7 +3,6 @@
     "editor.fontFamily": "Roboto sans serif",
     "editor.tabSize": 5,
     "editor.wordWrap": "on",
-    "workbench.colorTheme": "Dracula Soft",
     "editor.fontSize": 18,
     "terminal.integrated.fontFamily": "monospace",
     "[javascriptreact]": {
@@ -14,10 +13,11 @@
     },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "security.workspace.trust.untrustedFiles": "open",
-    "workbench.iconTheme": "material-icon-theme",
     "[php]": {
         "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
     "diffEditor.renderSideBySide": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "workbench.iconTheme": "material-icon-theme"
 }
